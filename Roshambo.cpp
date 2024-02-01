@@ -16,6 +16,8 @@ int main() {
 
     cout << "THE END." << endl;
 
+    system("pause");
+
     return 0;
 }
 
